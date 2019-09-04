@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303322632806",
+    "firebase_url": "https://reproduce-crash.firebaseio.com",
+    "project_id": "reproduce-crash",
+    "storage_bucket": "reproduce-crash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303322632806:android:9243054e3a3a15c21dd3a7",
+        "android_client_info": {
+          "package_name": "com.example.reproducecrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303322632806-3bsb0kt0ebhkulpv03vn8vc9tsu30hur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkp1dQc4qOPrS0JBz0rUOF9ROz08eBsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303322632806-3bsb0kt0ebhkulpv03vn8vc9tsu30hur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
